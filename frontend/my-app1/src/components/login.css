@@ -1,0 +1,61 @@
+/* Style for the entire login page */
+body{
+  background-color: #f6fff8;
+    /* background-image: url('./bg3.jpg'); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+}
+.container {
+    margin-top: 50px;
+  }
+  
+  h1.display-4 {
+    color: #fff;
+  }
+  
+  p.fs-4 {
+    color: #fff;
+  }
+  
+  .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .form-floating label {
+    color: #555;
+  }
+  
+  .form-floating input[type="email"],
+  .form-floating input[type="password"] {
+    border-radius: 0.25rem;
+  }
+  
+  .bg-body-tertiary {
+    background-color: #2ecc71; /* Green background for the card */
+    border: none;
+  }
+  
+  button.btn-success {
+    background-color: #27ae60;
+    border-color: #27ae60;
+  }
+  
+  button.btn-success:hover {
+    background-color: #219150;
+    border-color: #219150;
+  }
+  
+  hr.my-4 {
+    border-top: 1px solid #ccc;
+  }
+  
+  small.text-body-secondary {
+    color: #fff;
+  }
+  
+  .checkbox label {
+    color: #fff;
+  }
+  
